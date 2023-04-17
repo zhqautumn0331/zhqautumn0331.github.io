@@ -1,11 +1,11 @@
 :root {
     --bs-primary:#0dcaf0;
     --bs-primary-rgb: 11, 0, 166;
-    --bs-secondary: #C07300;
+    --bs-secondary: #0dcaf0;
     --bs-secondary-rgb: 238, 143, 0;
 }
 .expedu_icon{
-    color: #495057
+    color: #0dcaf0
 }
 .expedu_icon:hover {
     color:var(--bs-secondary);
